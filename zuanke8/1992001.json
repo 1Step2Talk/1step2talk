@@ -1,0 +1,55 @@
+{
+  "id": 1992001,
+  "title": "台式机可以这样接吗？一头接usb口，另外一头接路由器，这样来上网行吗",
+  "author": "dik，wangzhao",
+  "create_time": "2023-07-20 20:36:00",
+  "save_time": "2023-07-20 21:40:31",
+  "replies_count": 6,
+  "url": "http://www.zuanke8.com/thread-9084429-1-1.html",
+  "content": "\n[图片]",
+  "attachments": [
+    "http://img.zuanke8.cn/forum/202307/20/203618lp7uqvu7u9v32nv2.jpg"
+  ],
+  "tags": [
+    "台式机",
+    "路由器"
+  ],
+  "replies": [
+    {
+      "message": "完全可以,装驱动",
+      "pid": 101914097,
+      "username": "aSia",
+      "create_time": "2023-7-20 20:36"
+    },
+    {
+      "message": "可以的，完全可以，你还可以接三四个这样的，就相当于你有三四个网口了，然后接三四条不同的线路，跑死美滋滋",
+      "pid": 101914099,
+      "username": "w8927658",
+      "create_time": "2023-7-20 20:37"
+    },
+    {
+      "message": "当然可以，你主板的网卡坏了？",
+      "pid": 101914101,
+      "username": "pengfei911",
+      "create_time": "2023-7-20 20:37"
+    },
+    {
+      "message": "安装usb网卡驱动",
+      "pid": 101914103,
+      "username": "止渴糖浆",
+      "create_time": "2023-7-20 20:37"
+    },
+    {
+      "message": "你台式机没有网口？",
+      "pid": 101914106,
+      "username": "sakujo",
+      "create_time": "2023-7-20 20:37"
+    },
+    {
+      "message": "usb网卡，前些年电脑网口被雷打坏了用的就是这个",
+      "pid": 101914112,
+      "username": "muvpt",
+      "create_time": "2023-7-20 20:38"
+    }
+  ]
+}
