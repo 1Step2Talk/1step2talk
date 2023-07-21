@@ -1,0 +1,65 @@
+{
+  "id": 1995538,
+  "title": "服务器C盘满了 ！号上不去了 只有服务器数据 怎么才能把磁盘清理出来",
+  "author": "执手不离@i:",
+  "create_time": "2023-07-21 19:58:00",
+  "save_time": "2023-07-21 21:00:32",
+  "replies_count": 7,
+  "url": "http://www.zuanke8.com/thread-9085351-1-1.html",
+  "content": "服务器C盘满了 ！号上不去了 只有服务器数据&nbsp;&nbsp;怎么才能把磁盘清理出来\n[图片]",
+  "attachments": [
+    "http://img.zuanke8.cn/forum/202307/21/195828brjjnznn3gj92n2n.png"
+  ],
+  "tags": [
+    "服务器",
+    "磁盘"
+  ],
+  "replies": [
+    {
+      "message": "右键，格式化",
+      "pid": 101920639,
+      "username": "zyl123",
+      "create_time": "2023-7-21 20:05"
+    },
+    {
+      "message": "右键是点哪啊！！我这个是腾讯云服务器 能格式化么 老哥",
+      "pid": 101920702,
+      "username": "执手不离@i:",
+      "create_time": "2023-7-21 20:26",
+      "is_author": true,
+      "refer": 101920639
+    },
+    {
+      "message": "我C盘2TB",
+      "pid": 101920707,
+      "username": "E1MwKvOEoBuVxlQ",
+      "create_time": "2023-7-21 20:26"
+    },
+    {
+      "message": "服务器的- - 主要我腾讯云账号不记得了！",
+      "pid": 101920717,
+      "username": "执手不离@i:",
+      "create_time": "2023-7-21 20:29",
+      "is_author": true,
+      "refer": 101920707
+    },
+    {
+      "message": "扩容量。",
+      "pid": 101920723,
+      "username": "Hafowi",
+      "create_time": "2023-7-21 20:30"
+    },
+    {
+      "message": "你给服务器整中毒了吧",
+      "pid": 101920751,
+      "username": "韩国风情001",
+      "create_time": "2023-7-21 20:36"
+    },
+    {
+      "message": "把微信清理一下应该就好了。",
+      "pid": 101920759,
+      "username": "韩国风情001",
+      "create_time": "2023-7-21 20:37"
+    }
+  ]
+}
