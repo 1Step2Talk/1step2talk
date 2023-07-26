@@ -1,0 +1,135 @@
+{
+  "id": 2010140,
+  "title": "QD签到框架使用教程",
+  "author": "huangyankun1",
+  "create_time": "2023-07-26 14:58:00",
+  "save_time": "2023-07-26 17:30:44",
+  "replies_count": 17,
+  "url": "http://www.zuanke8.com/thread-9088447-1-1.html",
+  "content": "发现大家都不太会用，今天简单讲解一下\n原帖地址http://new.xianbao.fun/zuankeba/1992989.html签到方式：1、一次性使用，不需要账号，填入变量关键词即可；2、定时签到，设定好时间，填入关键词，每天定时签到。一：注册账号，输入可以收到邮件的邮箱，点击注册，去邮箱内点击验证链接即可激活账号，忘记密码同理二：管理界面，基本就是字面意思[图片]添加任务，每个任务的模版说明都有需要的变量，填入即可[图片]点击我的任务后面+号即可添加任务，输入关键词，先测试再提交，设置完后在管理界面设置定时时间公共模板使用：点击公共模板，找到自己需要的模版，点击订阅，返回上一层，刷新界面即可看见在我的模版出现，再添加任务即可三：结果推送，点击界面注册推送设置推送渠道，再点击推送设置，设置推送条件，也可以每天定时推送签到结果（不建议使用邮箱推送，因为是我个人邮箱发的），我个人使用的是Server酱，（免费版有推送次数限制，足够日常使用）[图片]推送邮件:[图片]Server酱:[图片]四：结果展示[图片]搭建教程百度一搜一大把，可以部署再各个平台https://github.com/qd-today/qd/不放心的可以自行部署",
+  "attachments": [
+    "http://img.zuanke8.cn/forum/202307/26/145035kujjjyxisyyyjow9.png",
+    "http://img.zuanke8.cn/forum/202307/26/145232mj7mo30kybo0dt0i.png",
+    "http://img.zuanke8.cn/forum/202307/26/145618jah5s3u7yn0bv03h.png",
+    "http://img.zuanke8.cn/forum/202307/26/145414rwltlz7cc74h0wd7.png",
+    "http://img.zuanke8.cn/forum/202307/26/145545inwwpy9rrnggp2y5.png",
+    "http://img.zuanke8.cn/forum/202307/26/150501r14awqrrmwwvmn99.png"
+  ],
+  "tags": [
+    "任务",
+    "教程",
+    "框架",
+    "变量",
+    "字面"
+  ],
+  "replies": [
+    {
+      "message": "需要其他签到脚本的请查看公共模版或者原帖留言",
+      "pid": 101944494,
+      "username": "huangyankun1",
+      "create_time": "2023-7-26 15:00",
+      "is_author": true
+    },
+    {
+      "message": "Mk ",
+      "pid": 101944532,
+      "username": "lubinbin82",
+      "create_time": "2023-7-26 15:06"
+    },
+    {
+      "message": "这个和青龙面板是差不多的意思吗  不是很明白",
+      "pid": 101944543,
+      "username": "karnoo",
+      "create_time": "2023-7-26 15:08"
+    },
+    {
+      "message": "\n差不多的意思，这个可以自己添加变量，增加自定义任务或者已经发布的脚本，等于说公共青龙",
+      "pid": 101944551,
+      "username": "huangyankun1",
+      "create_time": "2023-7-26 15:10",
+      "is_author": true,
+      "refer": 101944543
+    },
+    {
+      "message": "",
+      "pid": 101944601,
+      "username": "huangyankun1",
+      "create_time": "2023-7-26 15:22",
+      "is_author": true
+    },
+    {
+      "message": "谢谢 我试了吾爱签到似乎没打卡成功是为啥",
+      "pid": 101944713,
+      "username": "monobo1989",
+      "create_time": "2023-7-26 15:47"
+    },
+    {
+      "message": "你得提供一个”签到框架一键获取Cookies扩展程序“，手动获取稍显麻烦\n你们发的这些，人家QD的Github上面都有讲解\n\n能写QD模板的写法教程，才是王道",
+      "pid": 101944850,
+      "username": "1915279231",
+      "create_time": "2023-7-26 15:54"
+    },
+    {
+      "message": "学习了",
+      "pid": 101944868,
+      "username": "huangyankun1",
+      "create_time": "2023-7-26 16:17",
+      "is_author": true,
+      "refer": 101944850
+    },
+    {
+      "message": "我刚试了，显示成功，实际没有成功，问题已经反馈",
+      "pid": 101944886,
+      "username": "huangyankun1",
+      "create_time": "2023-7-26 16:20",
+      "is_author": true
+    },
+    {
+      "message": "只是简单的使用方法\n写法我自己都不会",
+      "pid": 101944908,
+      "username": "huangyankun1",
+      "create_time": "2023-7-26 16:23",
+      "is_author": true
+    },
+    {
+      "message": "阿里云盘如何添加任务？",
+      "pid": 101944955,
+      "username": "RonaldMcDonald",
+      "create_time": "2023-7-26 16:31"
+    },
+    {
+      "message": "试了几个都是失败，下面是b站的\n\nFailed at 11/16 request,\nFail assert: {\"re\": \"clockin clockin is duplicate\", \"from\": \"content\"} from success_asserts,\nResponse Error : HTTP 400: Bad Request,\nRequest URL: \nhttps://manga.bilibili.com/twirp/activity.v1.Activity/ClockIn\n\n我使用的这个代码复制的ck\njavascriptfunction(){var oInput=document.createElement('input');oInput.value=document.cookie;document.body.appendChild(oInput);oInput.select();document.execCommand(\"Copy\");oInput.className='oInput';oInput.style.display='none';alert('复制成功');})()\n\n不能直接复制ck有点麻烦",
+      "pid": 101944972,
+      "username": "河南马云",
+      "create_time": "2023-7-26 16:33"
+    },
+    {
+      "message": "你前面发的yan我就在用了，支持，哈哈！",
+      "pid": 101945012,
+      "username": "monobo1989",
+      "create_time": "2023-7-26 16:41",
+      "refer": 101944886
+    },
+    {
+      "message": "马克",
+      "pid": 101945024,
+      "username": "feifeizhu",
+      "create_time": "2023-7-26 16:42"
+    },
+    {
+      "message": "下面有介绍",
+      "pid": 101945273,
+      "username": "huangyankun1",
+      "create_time": "2023-7-26 17:16",
+      "is_author": true,
+      "refer": 101944955
+    },
+    {
+      "message": "不是每个人都去看那玩意",
+      "pid": 101945275,
+      "username": "huangyankun1",
+      "create_time": "2023-7-26 17:16",
+      "is_author": true
+    }
+  ]
+}
