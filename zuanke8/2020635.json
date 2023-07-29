@@ -1,0 +1,74 @@
+{
+  "id": 2020635,
+  "title": "京东领的，同程白金卡",
+  "author": "qq287784750",
+  "create_time": "2023-07-29 14:31:00",
+  "save_time": "2023-07-29 15:35:40",
+  "replies_count": 9,
+  "url": "http://www.zuanke8.com/thread-9090503-1-1.html",
+  "content": "今天40卖的，卖了好几个，马上要过期了，31号到期",
+  "tags": [
+    "京东"
+  ],
+  "replies": [
+    {
+      "message": "我都忘了这个事，兑换了3次刚才看还没到，无语",
+      "pid": 101959328,
+      "username": "zk丶bernie",
+      "create_time": "2023-7-29 14:32"
+    },
+    {
+      "message": "我直接卖了，秒确认",
+      "pid": 101959331,
+      "username": "qq287784750",
+      "create_time": "2023-7-29 14:33",
+      "is_author": true
+    },
+    {
+      "message": "怎么卖的啊，我都没到，有兑换码还能卖吗",
+      "pid": 101959335,
+      "username": "xumin284447223",
+      "create_time": "2023-7-29 14:33"
+    },
+    {
+      "message": "求出谁，果",
+      "pid": 101959337,
+      "username": "zuanke886",
+      "create_time": "2023-7-29 14:34"
+    },
+    {
+      "message": "卖的就是兑换码",
+      "pid": 101959340,
+      "username": "qq287784750",
+      "create_time": "2023-7-29 14:35",
+      "is_author": true,
+      "refer": 101959335
+    },
+    {
+      "message": "卖哪里的？？",
+      "pid": 101959350,
+      "username": "如意不如意",
+      "create_time": "2023-7-29 14:38"
+    },
+    {
+      "message": "小黄鱼",
+      "pid": 101959354,
+      "username": "qq287784750",
+      "create_time": "2023-7-29 14:39",
+      "is_author": true,
+      "refer": 101959350
+    },
+    {
+      "message": "哪里领",
+      "pid": 101959448,
+      "username": "天运子",
+      "create_time": "2023-7-29 15:07"
+    },
+    {
+      "message": "就看后期上不上权益吧，",
+      "pid": 101959483,
+      "username": "瑞菲德尔",
+      "create_time": "2023-7-29 15:19"
+    }
+  ]
+}
