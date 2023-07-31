@@ -1,0 +1,72 @@
+{
+  "id": 1808186,
+  "title": "山姆旗舰店下了几单，价格还不错",
+  "author": "zuanker66",
+  "create_time": "2023-06-01 00:02:00",
+  "save_time": "2023-06-01 01:06:56",
+  "replies_count": 8,
+  "url": "http://www.zuanke8.com/thread-9035597-1-1.html",
+  "content": "用的200-20补贴，和plus会员200-10券，免运费，和85折[图片] ，配合明天建行6.6折更佳",
+  "tags": [
+    "会员",
+    "建行"
+  ],
+  "replies": [
+    {
+      "message": "小时达还是？",
+      "pid": 101501391,
+      "username": "yelch",
+      "create_time": "2023-6-1 00:04"
+    },
+    {
+      "message": "85折是什么？",
+      "pid": 101501412,
+      "username": "gaodian",
+      "create_time": "2023-6-1 00:04"
+    },
+    {
+      "message": "不是，旗舰店",
+      "pid": 101501424,
+      "username": "zuanker66",
+      "create_time": "2023-6-1 00:05",
+      "is_author": true,
+      "refer": 101501391
+    },
+    {
+      "message": "200-20补贴，叠加plus200-10",
+      "pid": 101501430,
+      "username": "zuanker66",
+      "create_time": "2023-6-1 00:05",
+      "is_author": true,
+      "refer": 101501412
+    },
+    {
+      "message": "85折是什么",
+      "pid": 101501448,
+      "username": "dhtcwd",
+      "create_time": "2023-6-1 00:06"
+    },
+    {
+      "message": "买的什么",
+      "pid": 101501463,
+      "username": "cui1994",
+      "create_time": "2023-6-1 00:07"
+    },
+    {
+      "message": "看楼上",
+      "pid": 101501475,
+      "username": "zuanker66",
+      "create_time": "2023-6-1 00:07",
+      "is_author": true,
+      "refer": 101501448
+    },
+    {
+      "message": "大虾仁，泰森鸡翅，腊肠，紫米粥，唐扬鸡块等等",
+      "pid": 101501492,
+      "username": "zuanker66",
+      "create_time": "2023-6-1 00:08",
+      "is_author": true,
+      "refer": 101501463
+    }
+  ]
+}
