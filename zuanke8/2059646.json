@@ -1,0 +1,76 @@
+{
+  "id": 2059646,
+  "title": "excel大神请进来",
+  "author": "hey_boy",
+  "create_time": "2023-08-09 21:25:00",
+  "save_time": "2023-08-10 00:07:19",
+  "replies_count": 9,
+  "url": "http://www.zuanke8.com/thread-9098716-1-1.html",
+  "content": "我另外一张表格需要匹配名称列，返回结果数值，一对一我会使用vlookup匹配，但是名称列含有很多A 我需要把所有A的结果都匹配到另一张表格中去，请问如何实现？\n筛选数据少可以做，但是目前数据很多，使用筛选复制 不现实 求教 果果熟了[图片]",
+  "attachments": [
+    "http://img.zuanke8.cn/forum/202308/09/212547si2zw1itabai2w02.jpg"
+  ],
+  "replies": [
+    {
+      "message": "我匹配F列的名称 例如A 我需要他返回所有为A的数值",
+      "pid": 102021807,
+      "username": "hey_boy",
+      "create_time": "2023-8-9 21:26",
+      "is_author": true
+    },
+    {
+      "message": "如果A都是相同的，你插一列，用1、2、3区分，然后加一列A&1,然后vlookup过去。。",
+      "pid": 102021815,
+      "username": "694669503",
+      "create_time": "2023-8-9 21:28"
+    },
+    {
+      "message": "那可以用sumifs，不会的话，先把A透视一下，数值相加，再vlookup",
+      "pid": 102021821,
+      "username": "694669503",
+      "create_time": "2023-8-9 21:29",
+      "refer": 102021807
+    },
+    {
+      "message": "我需要返回3个结果数值 不加起来",
+      "pid": 102021831,
+      "username": "hey_boy",
+      "create_time": "2023-8-9 21:31",
+      "is_author": true,
+      "refer": 102021821
+    },
+    {
+      "message": "老版本的excel不行，但是可以用宏来实现，新的excel听说有新的公式可以直接实现，具体的问问度娘",
+      "pid": 102021870,
+      "username": "124566873",
+      "create_time": "2023-8-9 21:42"
+    },
+    {
+      "message": "不对不对，看错了",
+      "pid": 102021957,
+      "username": "什么东西",
+      "create_time": "2023-8-9 22:07"
+    },
+    {
+      "message": "不对不对，看错了\n这个应该先数据透视",
+      "pid": 102021967,
+      "username": "什么东西",
+      "create_time": "2023-8-9 22:08"
+    },
+    {
+      "photos": [
+        "http://img.zuanke8.cn/forum/202308/09/225316j0svta80ze408208.png"
+      ],
+      "message": "E1填入公式，按下键盘组合键：Ctrl + Shift + Enter",
+      "pid": 102022189,
+      "username": "pewl",
+      "create_time": "2023-8-9 22:54"
+    },
+    {
+      "message": "sumifs",
+      "pid": 102022347,
+      "username": "心里困着鱼",
+      "create_time": "2023-8-9 23:35"
+    }
+  ]
+}
