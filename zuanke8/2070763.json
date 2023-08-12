@@ -1,0 +1,53 @@
+{
+  "id": 2070763,
+  "title": "6S恢复出厂之后，激活失败，可能是系统版本不是最新，这怎么办？",
+  "author": "ttll2012",
+  "create_time": "2023-08-12 20:34:00",
+  "save_time": "2023-08-12 20:54:20",
+  "replies_count": 6,
+  "url": "http://www.zuanke8.com/thread-9100668-1-1.html",
+  "content": "如题",
+  "tags": [
+    "系统"
+  ],
+  "replies": [
+    {
+      "message": "跟系统新旧没关闭，\n你买的有锁机吗\n还是基带挂了",
+      "pid": 102037924,
+      "username": "hxk1990",
+      "create_time": "2023-8-12 20:36"
+    },
+    {
+      "message": "是我自己的手机，好久没有用了，电池不行，能正常用",
+      "pid": 102037928,
+      "username": "ttll2012",
+      "create_time": "2023-8-12 20:37",
+      "is_author": true,
+      "refer": 102037924
+    },
+    {
+      "message": "你截图出来 看看",
+      "pid": 102037936,
+      "username": "hxk1990",
+      "create_time": "2023-8-12 20:39"
+    },
+    {
+      "message": "10系统的话有可能，要dfu最新系统",
+      "pid": 102037939,
+      "username": "letsebuy",
+      "create_time": "2023-8-12 20:40"
+    },
+    {
+      "message": "系统太老了吧",
+      "pid": 102037955,
+      "username": "沭竹泪818",
+      "create_time": "2023-8-12 20:42"
+    },
+    {
+      "message": "换流量激活试试",
+      "pid": 102037974,
+      "username": "328601375",
+      "create_time": "2023-8-12 20:48"
+    }
+  ]
+}
