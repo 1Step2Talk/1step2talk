@@ -1,0 +1,55 @@
+{
+  "id": 2069977,
+  "title": "求助各位excel大神，有果",
+  "author": "dragonrex7",
+  "create_time": "2023-08-12 13:48:00",
+  "save_time": "2023-08-12 14:50:41",
+  "replies_count": 5,
+  "url": "http://www.zuanke8.com/thread-9100458-1-1.html",
+  "content": "姓氏&nbsp; &nbsp; &nbsp; &nbsp; 财富&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 名称&nbsp; &nbsp; &nbsp; &nbsp; \n李&nbsp; &nbsp; &nbsp; &nbsp; 十万&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 李公司&nbsp; &nbsp; &nbsp; &nbsp; 十万王&nbsp; &nbsp; &nbsp; &nbsp; 五亿&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 周公司&nbsp; &nbsp; &nbsp; &nbsp; 2元周&nbsp; &nbsp; &nbsp; &nbsp; 2元&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 王公司&nbsp; &nbsp; &nbsp; &nbsp; 五亿只要名称中包含姓氏，那么在名称后面显示财富，公式如何写，姓氏均为唯一值，且名称中不可能同时存在两个姓氏",
+  "tags": [
+    "财富",
+    "公司",
+    "王公"
+  ],
+  "replies": [
+    {
+      "message": "按姓氏汇总？？？",
+      "pid": 102036522,
+      "username": "wd123546",
+      "create_time": "2023-8-12 13:50"
+    },
+    {
+      "message": "财富那一栏不是数值，我去改改例子",
+      "pid": 102036528,
+      "username": "dragonrex7",
+      "create_time": "2023-8-12 13:51",
+      "is_author": true,
+      "refer": 102036522
+    },
+    {
+      "message": "VLOOKUP函数",
+      "pid": 102036626,
+      "username": "wbcheng",
+      "create_time": "2023-8-12 14:21"
+    },
+    {
+      "photos": [
+        "http://img.zuanke8.cn/forum/202308/12/143122mvtenk5e3gqn050k.jpg"
+      ],
+      "message": "是这个意思？ =left()   =VLOOKUP()",
+      "pid": 102036659,
+      "username": "散可又",
+      "create_time": "2023-8-12 14:31"
+    },
+    {
+      "photos": [
+        "http://img.zuanke8.cn/forum/202308/12/144137kxn1n80hpob31n2z.png"
+      ],
+      "message": "=MID(D7,1,1)&XLOOKUP(MID(D7,1,1),A:A,B:B,,0)   试试看，复姓的话，我还没想到          ",
+      "pid": 102036693,
+      "username": "454025667",
+      "create_time": "2023-8-12 14:42"
+    }
+  ]
+}
