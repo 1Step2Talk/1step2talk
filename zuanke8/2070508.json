@@ -1,0 +1,128 @@
+{
+  "id": 2070508,
+  "title": "电脑大神帮忙分辨下网线",
+  "author": "wyfswe",
+  "create_time": "2023-08-12 18:33:00",
+  "save_time": "2023-08-12 19:35:20",
+  "replies_count": 16,
+  "url": "http://www.zuanke8.com/thread-9100612-1-1.html",
+  "content": "网上说网线的8根线颜色是白橙、橙、白绿、兰、白兰、绿、白棕、棕\n为啥我买的是这样的[图片]",
+  "attachments": [
+    "http://img.zuanke8.cn/forum/202308/12/183351v363cc93y6ccaf6e.jpg"
+  ],
+  "tags": [
+    "网线",
+    "电脑"
+  ],
+  "replies": [
+    {
+      "message": "其实 两边都按顺序，顺着就行哈哈，别听那些说信号衰减的  比wifi稳",
+      "pid": 102037529,
+      "username": "铁山靠",
+      "create_time": "2023-8-12 18:36"
+    },
+    {
+      "message": "关键颜色对不上   老哥",
+      "pid": 102037532,
+      "username": "wyfswe",
+      "create_time": "2023-8-12 18:37",
+      "is_author": true,
+      "refer": 102037529
+    },
+    {
+      "message": "问客服去",
+      "pid": 102037537,
+      "username": "郎心如铁",
+      "create_time": "2023-8-12 18:41"
+    },
+    {
+      "message": "好多年不接线 忘记怎么排线水晶头了。想当年刚出道那会儿  一个人一下午压一百多个头。手指头都撸疼了。",
+      "pid": 102037548,
+      "username": "shenliyong0",
+      "create_time": "2023-8-12 18:43"
+    },
+    {
+      "message": "不会就两边一样",
+      "pid": 102037552,
+      "username": "死亡廴舞",
+      "create_time": "2023-8-12 18:45"
+    },
+    {
+      "message": "客服吓得直接不要货直接退款了",
+      "pid": 102037565,
+      "username": "wyfswe",
+      "create_time": "2023-8-12 18:48",
+      "is_author": true,
+      "refer": 102037537
+    },
+    {
+      "message": "两边都没头了",
+      "pid": 102037568,
+      "username": "wyfswe",
+      "create_time": "2023-8-12 18:49",
+      "is_author": true,
+      "refer": 102037552
+    },
+    {
+      "message": "pdd买的便宜货？",
+      "pid": 102037569,
+      "username": "xiumubaicai",
+      "create_time": "2023-8-12 18:49"
+    },
+    {
+      "message": "是的",
+      "pid": 102037575,
+      "username": "wyfswe",
+      "create_time": "2023-8-12 18:51",
+      "is_author": true,
+      "refer": 102037569
+    },
+    {
+      "message": "颜色也对着呢，淡一点的就是有白色的，橙白橙，绿白蓝，蓝白绿，棕白棕，之前一直这样背，一天做几百个",
+      "pid": 102037582,
+      "username": "djfengyi",
+      "create_time": "2023-8-12 18:53"
+    },
+    {
+      "message": "如果是要埋进墙的话还是买稍微好点的吧，顺序的话，只要水晶头两边一样也能用",
+      "pid": 102037583,
+      "username": "lyfing",
+      "create_time": "2023-8-12 18:53"
+    },
+    {
+      "message": "老哥  你看我这白色是不是对应标准的那种橙白",
+      "pid": 102037601,
+      "username": "wyfswe",
+      "create_time": "2023-8-12 18:56",
+      "is_author": true,
+      "refer": 102037582
+    },
+    {
+      "message": "是的，仔细看了下颜色，那个白色的就是橙白了，另一头也跟这个一样的顺序",
+      "pid": 102037609,
+      "username": "djfengyi",
+      "create_time": "2023-8-12 18:59",
+      "refer": 102037601
+    },
+    {
+      "message": "单纯接线的话，两头线序一样就行，如果是86面板上的，需要注意下，线序有要求",
+      "pid": 102037610,
+      "username": "青山元不动",
+      "create_time": "2023-8-12 18:59"
+    },
+    {
+      "message": "你这种是成品线，自己剪开来重新接的吧",
+      "pid": 102037694,
+      "username": "zwxshow",
+      "create_time": "2023-8-12 19:21"
+    },
+    {
+      "message": "嗯",
+      "pid": 102037710,
+      "username": "wyfswe",
+      "create_time": "2023-8-12 19:26",
+      "is_author": true,
+      "refer": 102037694
+    }
+  ]
+}
