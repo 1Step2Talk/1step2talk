@@ -1,0 +1,58 @@
+{
+  "id": 2083132,
+  "title": "ocr有免费的吗",
+  "author": "rocfirst181",
+  "create_time": "2023-08-16 15:29:00",
+  "save_time": "2023-08-16 17:35:43",
+  "replies_count": 7,
+  "url": "http://www.zuanke8.com/thread-9103323-1-1.html",
+  "content": "吧里看到一个ocr文字识别助手，一年89元会员",
+  "tags": [
+    "免费",
+    "会员"
+  ],
+  "replies": [
+    {
+      "message": "百度飞浆，或者自己训练个",
+      "pid": 102060881,
+      "username": "这是个好名字哈",
+      "create_time": "2023-8-16 15:30"
+    },
+    {
+      "message": "天若ocr，需要自己去百度申请免费接口\n\nhttps://wwxa.lanzouk.com/ibtjrri",
+      "pid": 102060936,
+      "username": "1915279231",
+      "create_time": "2023-8-16 15:34"
+    },
+    {
+      "message": "百度有免费的key，配合吾爱那边大佬的软，能做到免费。",
+      "pid": 102060949,
+      "username": "宠虫",
+      "create_time": "2023-8-16 15:35"
+    },
+    {
+      "message": "wps",
+      "pid": 102061012,
+      "username": "xiong3842468",
+      "create_time": "2023-8-16 15:40"
+    },
+    {
+      "message": "要是用的少的话直接微信截图也可以识别，比天若靠谱多",
+      "pid": 102061099,
+      "username": "心绪漫笔",
+      "create_time": "2023-8-16 15:47"
+    },
+    {
+      "message": "电脑的话可以用utools  里面有免费的，目前用的体验不错",
+      "pid": 102061313,
+      "username": "coolboy93",
+      "create_time": "2023-8-16 16:05"
+    },
+    {
+      "message": "百度有api，用Python或者其他语言调用一下就好了",
+      "pid": 102061516,
+      "username": "飒飒飒飒飒飒飒",
+      "create_time": "2023-8-16 16:22"
+    }
+  ]
+}
