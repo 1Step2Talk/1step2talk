@@ -1,0 +1,64 @@
+{
+  "id": 2097192,
+  "title": "有哪家快递可以把一个快递包裹拆成多个小包一起发？",
+  "author": "典典[VIP]",
+  "create_time": "2023-08-20 19:21:00",
+  "save_time": "2023-08-20 20:25:31",
+  "replies_count": 7,
+  "url": "http://www.zuanke8.com/thread-9106111-1-1.html",
+  "content": "除了顺丰",
+  "tags": [
+    "快递",
+    "小包",
+    "顺丰"
+  ],
+  "replies": [
+    {
+      "message": "京东呗 ",
+      "pid": 102085285,
+      "username": "旷世浮萍",
+      "create_time": "2023-8-20 19:27"
+    },
+    {
+      "message": "顺丰子母件",
+      "pid": 102085287,
+      "username": "浪心剑客",
+      "create_time": "2023-8-20 19:27"
+    },
+    {
+      "message": "京东也可以子母件？\n\n",
+      "pid": 102085291,
+      "username": "典典[VIP]",
+      "create_time": "2023-8-20 19:29",
+      "is_author": true,
+      "refer": 102085285
+    },
+    {
+      "message": "京东，德邦，中通都可以",
+      "pid": 102085298,
+      "username": "海中建木",
+      "create_time": "2023-8-20 19:30"
+    },
+    {
+      "message": "中通也可以？",
+      "pid": 102085319,
+      "username": "典典[VIP]",
+      "create_time": "2023-8-20 19:34",
+      "is_author": true,
+      "refer": 102085298
+    },
+    {
+      "message": "所有快递都可以，就看快递员给你弄不弄",
+      "pid": 102085340,
+      "username": "扶不起",
+      "create_time": "2023-8-20 19:41"
+    },
+    {
+      "message": "要么和快递员熟要么付原价，极兔的系统好像也可以（源自丰网速运）",
+      "pid": 102085402,
+      "username": "海中建木",
+      "create_time": "2023-8-20 20:01",
+      "refer": 102085319
+    }
+  ]
+}
