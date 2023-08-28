@@ -1,0 +1,71 @@
+{
+  "id": 2122686,
+  "title": "菜鸟驿站发给你的取件码短信是谁发的？",
+  "author": "Glenn",
+  "create_time": "2023-08-28 18:16:00",
+  "save_time": "2023-08-28 19:20:43",
+  "replies_count": 8,
+  "url": "http://www.zuanke8.com/thread-9111477-1-1.html",
+  "content": "人工发的还是系统发的？",
+  "tags": [
+    "驿站",
+    "短信",
+    "系统"
+  ],
+  "replies": [
+    {
+      "message": "肯定系统呀，驿站录入就生成取件码，再自动发送",
+      "pid": 102129670,
+      "username": "flyfanc",
+      "create_time": "2023-8-28 18:17"
+    },
+    {
+      "message": "系统发的  怎么发，发不发，发什么内容都是总部控制的  ",
+      "pid": 102129750,
+      "username": "金属狂人",
+      "create_time": "2023-8-28 18:42"
+    },
+    {
+      "message": "今天我过去拿说不是我的，跟我一样的名字，我纳闷了不是按手机号来的？",
+      "pid": 102129757,
+      "username": "Glenn",
+      "create_time": "2023-8-28 18:45",
+      "is_author": true,
+      "refer": 102129670
+    },
+    {
+      "message": "今天我过去拿说不是我的，跟我一样的名字，我纳闷了不是按手机号来的？",
+      "pid": 102129758,
+      "username": "Glenn",
+      "create_time": "2023-8-28 18:45",
+      "is_author": true,
+      "refer": 102129750
+    },
+    {
+      "message": "极少个别会读取名字匹配，正常都是手机号匹配",
+      "pid": 102129766,
+      "username": "金属狂人",
+      "create_time": "2023-8-28 18:46",
+      "refer": 102129758
+    },
+    {
+      "message": "手机号，取货码，都行。难道是小号？错了也收不到验证码啊，看看快递单上是不是你手机号呗。",
+      "pid": 102129781,
+      "username": "elab",
+      "create_time": "2023-8-28 18:53",
+      "refer": 102129758
+    },
+    {
+      "message": "经常别人的发给我",
+      "pid": 102129840,
+      "username": "tzclean",
+      "create_time": "2023-8-28 19:09"
+    },
+    {
+      "message": "有时候手机号码尾数相同也会发错",
+      "pid": 102129876,
+      "username": "ltwo1",
+      "create_time": "2023-8-28 19:15"
+    }
+  ]
+}
