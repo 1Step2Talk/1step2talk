@@ -1,0 +1,81 @@
+{
+  "id": 2128915,
+  "title": "擦，买机票名字一个字母错了",
+  "author": "xfqmin",
+  "create_time": "2023-08-30 14:53:00",
+  "save_time": "2023-08-30 15:55:23",
+  "replies_count": 10,
+  "url": "http://www.zuanke8.com/thread-9112859-1-1.html",
+  "content": "第一次买出国的，拼音错了，正在联系航空公司改，不知道行不行，尴尬",
+  "replies": [
+    {
+      "message": "对着护照买，怎样都不会错",
+      "pid": 102140872,
+      "username": "小小的尘埃",
+      "create_time": "2023-8-30 14:55"
+    },
+    {
+      "message": "没事儿，好修改",
+      "pid": 102140875,
+      "username": "infosky",
+      "create_time": "2023-8-30 14:55"
+    },
+    {
+      "message": "手输啊，都是手输，也不输中文名，也没有校验",
+      "pid": 102140880,
+      "username": "xfqmin",
+      "create_time": "2023-8-30 14:56",
+      "is_author": true,
+      "refer": 102140872
+    },
+    {
+      "message": "看航空的，问这里没用，打电话给航空公司去问\n给你改就改，不给你改就只能退票",
+      "pid": 102140883,
+      "username": "QQ小冰",
+      "create_time": "2023-8-30 14:56"
+    },
+    {
+      "message": "是不是修改要钱",
+      "pid": 102140884,
+      "username": "xfqmin",
+      "create_time": "2023-8-30 14:56",
+      "is_author": true,
+      "refer": 102140875
+    },
+    {
+      "message": "退票完犊子，退不了多少钱",
+      "pid": 102140892,
+      "username": "xfqmin",
+      "create_time": "2023-8-30 14:57",
+      "is_author": true,
+      "refer": 102140883
+    },
+    {
+      "message": "名字有问题，登不了机。反正我遇到的是。在现场改。关键是看谁搞错的。",
+      "pid": 102140907,
+      "username": "20111111",
+      "create_time": "2023-8-30 15:02"
+    },
+    {
+      "message": "正常都是个人错吧，系统一般不会出错",
+      "pid": 102140914,
+      "username": "xfqmin",
+      "create_time": "2023-8-30 15:05",
+      "is_author": true,
+      "refer": 102140907
+    },
+    {
+      "message": "好像50块钱可以改",
+      "pid": 102140915,
+      "username": "QQ细鬼",
+      "create_time": "2023-8-30 15:05"
+    },
+    {
+      "message": "说了看航司的，问航司客服，能改就改，不能改就只能退\n因为名字错误大概率是你的问题。",
+      "pid": 102141064,
+      "username": "QQ小冰",
+      "create_time": "2023-8-30 15:32",
+      "refer": 102140892
+    }
+  ]
+}
