@@ -1,0 +1,107 @@
+{
+  "id": 2132474,
+  "title": "异地不是本人不能补卡吗",
+  "author": "红包之家",
+  "create_time": "2023-08-31 15:30:00",
+  "save_time": "2023-08-31 16:35:58",
+  "replies_count": 14,
+  "url": "http://www.zuanke8.com/thread-9113595-1-1.html",
+  "content": "移动，老家的我爸的卡，在我这边用，突然芯片坏了，营业厅要本人才能补卡",
+  "tags": [
+    "异地",
+    "芯片",
+    "营业厅"
+  ],
+  "replies": [
+    {
+      "message": "我去补你的卡行不行",
+      "pid": 102146877,
+      "username": "谢谢你的样子",
+      "create_time": "2023-8-31 15:31"
+    },
+    {
+      "message": "我去补你的卡行不行",
+      "pid": 102146879,
+      "username": "SuperGeTwoEggs",
+      "create_time": "2023-8-31 15:32"
+    },
+    {
+      "message": "这张卡还是我拿我爸shen/份证办的呢，他有不懂",
+      "pid": 102146886,
+      "username": "红包之家",
+      "create_time": "2023-8-31 15:32",
+      "is_author": true,
+      "refer": 102146877
+    },
+    {
+      "message": "有户口本，不能证明吗",
+      "pid": 102146890,
+      "username": "红包之家",
+      "create_time": "2023-8-31 15:33",
+      "is_author": true,
+      "refer": 102146877
+    },
+    {
+      "message": "证明啥，这年头要人脸，让他老爸去营业厅补卡，走快递",
+      "pid": 102146897,
+      "username": "jackielee2012",
+      "create_time": "2023-8-31 15:34",
+      "refer": 102146890
+    },
+    {
+      "message": "本地 不是本人卡也不能补",
+      "pid": 102146900,
+      "username": "wangwhh123",
+      "create_time": "2023-8-31 15:34"
+    },
+    {
+      "message": "补卡要人脸识别",
+      "pid": 102146902,
+      "username": "zoujam",
+      "create_time": "2023-8-31 15:35"
+    },
+    {
+      "message": "必须有你和你爸的shen/份证就可以补",
+      "pid": 102146904,
+      "username": "heqnba",
+      "create_time": "2023-8-31 15:35"
+    },
+    {
+      "message": "可能他会要你开个证明你爸是你爸",
+      "pid": 102146916,
+      "username": "谢谢你的样子",
+      "create_time": "2023-8-31 15:37",
+      "refer": 102146890
+    },
+    {
+      "message": "现在不都是app补卡。。",
+      "pid": 102146926,
+      "username": "木幻",
+      "create_time": "2023-8-31 15:40"
+    },
+    {
+      "message": "可以补，我妈的没信号，我拿旧卡+sfz就补了，要三个通话记录，小厅补的",
+      "pid": 102146928,
+      "username": "正好啊",
+      "create_time": "2023-8-31 15:40"
+    },
+    {
+      "message": "本地都必须本人刷脸   不然就得反馈走特殊流程带上2人shen/份证和授权书吧",
+      "pid": 102146973,
+      "username": "isboy",
+      "create_time": "2023-8-31 15:48"
+    },
+    {
+      "message": "现在补卡在营业厅也要扫脸",
+      "pid": 102146991,
+      "username": "xys1992",
+      "create_time": "2023-8-31 15:51"
+    },
+    {
+      "message": "我去补你的卡行不行",
+      "pid": 102147145,
+      "username": "84047732",
+      "create_time": "2023-8-31 16:25"
+    }
+  ]
+}
