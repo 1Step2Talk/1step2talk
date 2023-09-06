@@ -1,0 +1,81 @@
+{
+  "id": 2155222,
+  "title": "吧友们，在保留聊天记录的前提下，怎么把微信占用内存的毒瘤清理一部分呢？",
+  "author": "shanhua20106",
+  "create_time": "2023-09-06 16:08:00",
+  "save_time": "2023-09-06 18:04:25",
+  "replies_count": 10,
+  "url": "http://www.zuanke8.com/thread-9118685-1-1.html",
+  "content": "吧友们，在保留聊天记录的前提下，怎么把微信占用内存的毒瘤清理一部分呢？[图片]",
+  "attachments": [
+    "http://img.zuanke8.cn/forum/202309/06/160800mvggl49aw2fsc0qe.jpg"
+  ],
+  "tags": [
+    "内存",
+    "毒瘤"
+  ],
+  "replies": [
+    {
+      "message": "pc微信备份",
+      "pid": 102184790,
+      "username": "aSia",
+      "create_time": "2023-9-6 16:08"
+    },
+    {
+      "message": "电脑微信备份聊天记录,删除手机微信重新安装,然后恢复聊天记录",
+      "pid": 102184802,
+      "username": "ly3715",
+      "create_time": "2023-9-6 16:10"
+    },
+    {
+      "message": "占用72G 合着买个大内存手机为了腾讯买",
+      "pid": 102184826,
+      "username": "zl7654045",
+      "create_time": "2023-9-6 16:12"
+    },
+    {
+      "message": "一步到位，买1T的",
+      "pid": 102184831,
+      "username": "xcs我去",
+      "create_time": "2023-9-6 16:13"
+    },
+    {
+      "message": "自己进微信设置 通用 存储空间看看啥不需要清理啥",
+      "pid": 102184832,
+      "username": "我勒个去呀呀呀",
+      "create_time": "2023-9-6 16:13"
+    },
+    {
+      "message": "这个方法费时间",
+      "pid": 102184887,
+      "username": "jacky2017",
+      "create_time": "2023-9-6 16:18",
+      "refer": 102184802
+    },
+    {
+      "message": " 电脑微信备份聊天记录\n删除手机微信重新安装,\n然后恢复聊天记录",
+      "pid": 102184916,
+      "username": "wc2346319",
+      "create_time": "2023-9-6 16:20"
+    },
+    {
+      "message": "正确，没有办法啊",
+      "pid": 102185081,
+      "username": "风尘的刻画",
+      "create_time": "2023-9-6 16:42",
+      "refer": 102184826
+    },
+    {
+      "message": "微信 /我/设置/通用/ 看存储空间，清除缓存",
+      "pid": 102185566,
+      "username": "liangmeimei9",
+      "create_time": "2023-9-6 18:02"
+    },
+    {
+      "message": "我的工作原因，经常传文件，已经80个G了。这毒瘤",
+      "pid": 102185571,
+      "username": "anthony",
+      "create_time": "2023-9-6 18:04"
+    }
+  ]
+}
