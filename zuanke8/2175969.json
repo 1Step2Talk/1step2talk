@@ -1,0 +1,116 @@
+{
+  "id": 2175969,
+  "title": "学校教职工适合用什么网盘",
+  "author": "一阳Sin",
+  "create_time": "2023-09-11 14:59:00",
+  "save_time": "2023-09-11 17:39:54",
+  "replies_count": 15,
+  "url": "http://www.zuanke8.com/thread-9122516-1-1.html",
+  "content": "如题，电脑、手机都可用的&nbsp; &nbsp;平时就是上传照片视频和文案模板等\n学校也有钱买NAS那些 但是问了几个&nbsp;&nbsp;都是没售后的&nbsp;&nbsp;靠自己的 不如买网盘",
+  "tags": [
+    "电脑",
+    "学校",
+    "视频",
+    "手机",
+    "教职工"
+  ],
+  "replies": [
+    {
+      "message": "用学校自己搭建的FTP",
+      "pid": 102214056,
+      "username": "小小的尘埃",
+      "create_time": "2023-9-11 15:00"
+    },
+    {
+      "message": "可是老师手机咋用  分苹果、安卓",
+      "pid": 102214057,
+      "username": "一阳Sin",
+      "create_time": "2023-9-11 15:00",
+      "is_author": true,
+      "refer": 102214056
+    },
+    {
+      "message": "samba",
+      "pid": 102214059,
+      "username": "scutlxb",
+      "create_time": "2023-9-11 15:01"
+    },
+    {
+      "message": "当然115  空间大 资源多 爽歪歪",
+      "pid": 102214061,
+      "username": "James6575",
+      "create_time": "2023-9-11 15:01"
+    },
+    {
+      "message": "学校没买ondrive世纪互联商业版么，多端同步很好用",
+      "pid": 102214069,
+      "username": "1915279231",
+      "create_time": "2023-9-11 15:03"
+    },
+    {
+      "message": "坚果云",
+      "pid": 102214070,
+      "username": "gaodian",
+      "create_time": "2023-9-11 15:03"
+    },
+    {
+      "message": "学校肯定不要网盘好，限制太多，学校电费不用自己交，搞个刀片服务器，要多少空间挂多少硬盘，再找个开源os，可以试试Casa OS，有服务器后面可操作多一点，自己搞便宜实惠",
+      "pid": 102214129,
+      "username": "caiyaonan",
+      "create_time": "2023-9-11 15:15"
+    },
+    {
+      "message": "登录都很难登录",
+      "pid": 102214151,
+      "username": "一阳Sin",
+      "create_time": "2023-9-11 15:19",
+      "is_author": true,
+      "refer": 102214069
+    },
+    {
+      "message": "夸克几块钱一年",
+      "pid": 102214169,
+      "username": "首席鉴黄官i",
+      "create_time": "2023-9-11 15:23"
+    },
+    {
+      "message": "其他用户不好登录",
+      "pid": 102214186,
+      "username": "一阳Sin",
+      "create_time": "2023-9-11 15:28",
+      "is_author": true,
+      "refer": 102214169
+    },
+    {
+      "message": "你说的这些功能哪个网盘不能满足的，，，，",
+      "pid": 102214196,
+      "username": "木幻",
+      "create_time": "2023-9-11 15:30"
+    },
+    {
+      "message": "肯定自己搞啦。\n\n难道你要老师一个一个装网盘app， 搞网盘会员，，，\n网盘限速到时候你下载都吐血",
+      "pid": 102214298,
+      "username": "scutlxb",
+      "create_time": "2023-9-11 15:45"
+    },
+    {
+      "message": "内网最好是ftp",
+      "pid": 102214326,
+      "username": "singleboyp",
+      "create_time": "2023-9-11 15:48"
+    },
+    {
+      "message": "115",
+      "pid": 102214419,
+      "username": "寻找shui",
+      "create_time": "2023-9-11 16:03"
+    },
+    {
+      "message": "你说的是国际版，国内运营的很流畅",
+      "pid": 102214527,
+      "username": "1915279231",
+      "create_time": "2023-9-11 16:18",
+      "refer": 102214151
+    }
+  ]
+}
