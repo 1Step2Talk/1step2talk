@@ -1,0 +1,79 @@
+{
+  "id": 2183041,
+  "title": "新买的U盘突然提示要格式化，怎么办？里面还有文件",
+  "author": "wuyihbin",
+  "create_time": "2023-09-13 15:57:00",
+  "save_time": "2023-09-13 17:00:31",
+  "replies_count": 10,
+  "url": "http://www.zuanke8.com/thread-9123897-1-1.html",
+  "content": "如题，只能尝试修复了吗",
+  "replies": [
+    {
+      "message": "新买的就格式化，里面有文件也不关你的事。买来就用没格式化那就看有没有办法抢救",
+      "pid": 102224804,
+      "username": "小小的尘埃",
+      "create_time": "2023-9-13 15:58"
+    },
+    {
+      "message": "估计是买到扩容盘了",
+      "pid": 102224809,
+      "username": "davidge",
+      "create_time": "2023-9-13 15:59"
+    },
+    {
+      "message": "可以用恢复软件读取数据试下，U盘引导记录被改就识别不了",
+      "pid": 102224814,
+      "username": "你家隔壁老王",
+      "create_time": "2023-9-13 16:00"
+    },
+    {
+      "message": "用软件进去把东西复制出来",
+      "pid": 102224851,
+      "username": "薅完就跑",
+      "create_time": "2023-9-13 16:08"
+    },
+    {
+      "message": "新盘提示格式化，估计是要挂，能换的话尽量换一个",
+      "pid": 102224876,
+      "username": "闯王2",
+      "create_time": "2023-9-13 16:12"
+    },
+    {
+      "message": "自己的文件。刚用",
+      "pid": 102224954,
+      "username": "wuyihbin",
+      "create_time": "2023-9-13 16:25",
+      "is_author": true,
+      "refer": 102224804
+    },
+    {
+      "message": "有软件分享一个吗 老哥",
+      "pid": 102224963,
+      "username": "wuyihbin",
+      "create_time": "2023-9-13 16:26",
+      "is_author": true,
+      "refer": 102224851
+    },
+    {
+      "message": "有软件分享一个吗 老哥",
+      "pid": 102224964,
+      "username": "wuyihbin",
+      "create_time": "2023-9-13 16:26",
+      "is_author": true,
+      "refer": 102224814
+    },
+    {
+      "message": "如果以前用过正常，这次用的时候提示要格式化，可能是系统不兼容优盘格式，可以考虑换个电脑试下。",
+      "pid": 102224972,
+      "username": "大家一起开摩托",
+      "create_time": "2023-9-13 16:28"
+    },
+    {
+      "message": "DiskGenius",
+      "pid": 102224978,
+      "username": "薅完就跑",
+      "create_time": "2023-9-13 16:29",
+      "refer": 102224964
+    }
+  ]
+}
